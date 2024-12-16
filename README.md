@@ -3,6 +3,15 @@ A beautifully designed To-Do List Manager built using HTML, CSS, and JavaScript.
 
 # 📸 Preview
 ![Screenshot (239)](https://github.com/user-attachments/assets/bdb81544-320b-4562-83a6-ccaff05e4cab)
+![Screenshot (234)](https://github.com/user-attachments/assets/ce27d65a-cf3c-46d8-80c2-284260ae23c4)
+![Screenshot (235)](https://github.com/user-attachments/assets/d9729431-e652-46a6-bd27-47f6f267427a)
+![Screenshot (236)](https://github.com/user-attachments/assets/e1be4ff4-b807-4eb0-a116-9a95e4a6f6b3)
+![Screenshot (237)](https://github.com/user-attachments/assets/9996147c-f50c-4cb3-817e-f7b645098992)
+![Screenshot (238)](https://github.com/user-attachments/assets/a4e12b25-1072-4b74-9079-3f81a3b04b91)
+
+
+
+
 
 
 
