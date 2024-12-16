@@ -16,21 +16,21 @@ A beautifully designed To-Do List Manager built using HTML, CSS, and JavaScript.
 
 
 # 🚀 Features
-Add Tasks: Add tasks easily with the input field and "Add" button.
-Edit Tasks: Update tasks in place with a single click.
-Delete Tasks: Remove tasks instantly.
-Task Completion: Click on tasks to mark them as completed.
-Responsive Design: Works seamlessly on different devices.
+Add Tasks: Add tasks easily with the input field and "Add" button. <br>
+Edit Tasks: Update tasks in place with a single click. <br>
+Delete Tasks: Remove tasks instantly. <br>
+Task Completion: Click on tasks to mark them as completed. <br>
+Responsive Design: Works seamlessly on different devices. <br>
 # 🛠️ Tech Stack
-HTML5 - Structure of the application
-CSS3 - Styling and responsive design
-JavaScript - Dynamic behavior and task management
+HTML5 - Structure of the application <br>
+CSS3 - Styling and responsive design <br>
+JavaScript - Dynamic behavior and task management <br>
 # 📂 Project Structure
 /ToDo-List-Manager
-│── index.html        # Main HTML file
-│── styles.css        # CSS for styling
-│── script.js         # JavaScript for functionality
-│── README.md         # Project documentation
+│── index.html        # Main HTML file <br>
+│── styles.css        # CSS for styling <br>
+│── script.js         # JavaScript for functionality <br>
+│── README.md         # Project documentation <br>
 
 # 💻 How to Use
 Run Locally
